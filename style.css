@@ -45,6 +45,11 @@ html,body{
     height: 100px;
 }
 
+.img2{
+    height: 100px;
+    margin: 10px;
+}
+
 h2{
     font-size: medium;
 }

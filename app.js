@@ -112,6 +112,13 @@ function display(dati) {
 
 
 
+            const coatOfArms = document.createElement('img');
+            coatOfArms.src = dato.coatOfArms.png;
+            coatOfArms.classList.add('img2');
+            divDato.appendChild(coatOfArms)
+
+
+
         
         
 
